@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Eerste weken stage"
 date:   2015-05-11 07:22:28
-categories: jekyll update
+categories: Stage
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+In de eerste week van mijn stage ben ik bezig geweest met het bouwen van een kleine applicatie die samenwerkte met het Version Control System
+waar de op stage gebruik van maakte. deze opdracht ben ik 2 a 3 dagen mee bezig geweest. Deze opdracht was heel erg leerzaam omdat ik nog niet 
+heel veel ervaring had met Ruby on Rails.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Na de eerste opdracht ben ik bezig geweest met het toevoegen van features in een intern systeem. Dit was de eerste opdracht die ook werkelijk
+gebruikt wordt. De structuur die er gebruikt wordt was in het begin best wel lastig maar na een paar dagen snapte ik de structuur en kon ik ook
+werkelijk de features toevoegen die ik kreeg. Vanaf dat moment begon ik voor me gevoel veel te leren over hoe ik efficient code kon schrijven en
+hoe de regels waren die ik moet volgen. Ook zat ik regelmatig samen met mijn stage-begeleider om naar mijn code te kijken.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Ik ben de week daarna begonnen aan een werkelijk project voor een klant. Ik mocht beginnen met het maken van een kleine gallerij. Dit was in het begin erg moeilijk omdat ik in een bestaande structuur iets moest gaan bouwen. Ik heb toen erg veel geleerd over de structuur van dat project. Toen de gallerij af was ben ik begonnen met het oppakken van kleine punten. Ik heb vanaf toen veel feedback gehad over de code en hoe ik nu ook weer efficient kon werken.
