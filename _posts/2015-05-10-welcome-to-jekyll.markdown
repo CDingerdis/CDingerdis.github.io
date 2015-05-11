@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eerste weken stage"
-date:   2015-05-11 07:22:28
+date:   2015-05-10 11:22:28
 categories: Stage
 ---
 In de eerste week van mijn stage ben ik bezig geweest met het bouwen van een kleine applicatie die samenwerkte met het Version Control System
